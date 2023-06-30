@@ -22,7 +22,7 @@ import java.util.stream.Collectors;
  * This controller also handles the conversion between Exercise and TrainingSession
  * objects and their corresponding Data Transfer Objects.
  */
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://zti-frontend-w616.onrender.com")
 @RestController
 @RequestMapping("/api/trainingsessions")
 public class TrainingSessionController {

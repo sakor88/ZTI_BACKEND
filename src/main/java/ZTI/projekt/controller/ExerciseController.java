@@ -9,7 +9,7 @@ import java.util.List;
 /**
  * The ExerciseController class handles HTTP requests related to Exercise entities.
  */
-@CrossOrigin(origins = "http://localhost:3000")
+@CrossOrigin(origins = "https://zti-frontend-w616.onrender.com/")
 @RestController
 @RequestMapping("/api/exercises")
 public class ExerciseController {
