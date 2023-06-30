@@ -1,0 +1,10 @@
+D:\ZTI\Backend\src\main\java\ZTI\projekt\dto\ExerciseDto.java
+D:\ZTI\Backend\src\main\java\ZTI\projekt\model\Exercise.java
+D:\ZTI\Backend\src\main\java\ZTI\projekt\model\TrainingSession.java
+D:\ZTI\Backend\src\main\java\ZTI\projekt\repository\TrainingSessionRepository.java
+D:\ZTI\Backend\src\main\java\ZTI\projekt\controller\TrainingSessionController.java
+D:\ZTI\Backend\src\main\java\ZTI\projekt\ProjektApplication.java
+D:\ZTI\Backend\src\main\java\ZTI\projekt\aspect\LoggingAspect.java
+D:\ZTI\Backend\src\main\java\ZTI\projekt\repository\ExerciseRepository.java
+D:\ZTI\Backend\src\main\java\ZTI\projekt\controller\ExerciseController.java
+D:\ZTI\Backend\src\main\java\ZTI\projekt\dto\TrainingSessionDto.java

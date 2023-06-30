@@ -1,0 +1,10 @@
+ZTI\projekt\dto\TrainingSessionDto.class
+ZTI\projekt\controller\TrainingSessionController.class
+ZTI\projekt\model\TrainingSession.class
+ZTI\projekt\repository\ExerciseRepository.class
+ZTI\projekt\aspect\LoggingAspect.class
+ZTI\projekt\controller\ExerciseController.class
+ZTI\projekt\repository\TrainingSessionRepository.class
+ZTI\projekt\ProjektApplication.class
+ZTI\projekt\dto\ExerciseDto.class
+ZTI\projekt\model\Exercise.class
