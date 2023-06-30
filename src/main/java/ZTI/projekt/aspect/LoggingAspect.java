@@ -20,18 +20,11 @@ public class LoggingAspect {
     private final Logger log = LoggerFactory.getLogger(this.getClass());
 
     /**
-     * Pointcut for methods in classes annotated with Repository.
-     */
-    @Pointcut("@within(org.springframework.stereotype.Repository)")
-    public void repositoryMethods() {
-    };
-
-    /**
      * Pointcut for methods in the controller package.
      */
     @Pointcut("execution(* ZTI.projekt.controller.*.*(..))")
     public void controllerMethods() {
-    };
+    }
 
     /**
      * Logs method entry.
